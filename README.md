@@ -1,4 +1,4 @@
-# Hunley, Inc. — Quantitative Case Analysis (UBC)
+# Hunley, Inc. — Quantitative Case Analysis
 
 Python models for a Harvard Business School case used in a UBC class. The code projects income statements, simulates multi-year EBITDA with Monte Carlo, and explores price–demand elasticity to compare three go-to-market strategies:
 
